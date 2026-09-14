@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+backend/.venv/
+backend/__pycache__/
+frontend/.next/
+frontend/node_modules/
+terraform/**/.terraform/
+terraform/**/*.tfstate
+terraform/**/*.tfstate.*
+terraform/**/*.tfvars
+terraform/**/*.tfvars.json
